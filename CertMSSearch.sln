@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertMSSearch", "CertMSSearch\CertMSSearch.csproj", "{F605B92F-C126-4B68-ADEB-6CB257490AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertMSSearch.Tests", "CertMSSearch.Tests\CertMSSearch.Tests.csproj", "{8BA79A1D-0382-4711-B274-2858AF1F3EBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F605B92F-C126-4B68-ADEB-6CB257490AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F605B92F-C126-4B68-ADEB-6CB257490AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F605B92F-C126-4B68-ADEB-6CB257490AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA79A1D-0382-4711-B274-2858AF1F3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA79A1D-0382-4711-B274-2858AF1F3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA79A1D-0382-4711-B274-2858AF1F3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA79A1D-0382-4711-B274-2858AF1F3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
